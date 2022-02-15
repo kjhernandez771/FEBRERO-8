@@ -1,0 +1,14 @@
+[user]
+	name = Kevin Hernandez
+	email = 92553270+kjhernandez771@users.noreply.github.com
+[core]
+	editor = \"C:\\Users\\user\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.cmd\" --wait
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultbranch = main
+

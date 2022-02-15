@@ -1,0 +1,66 @@
+2022-02-11T16:53:21.938Z [acwebbrowser:2484, 1080] [AdSSO INFO] Log setup using log configuration file C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/WebServices.logconfig
+2022-02-11T16:53:21.939Z [acwebbrowser:2484, 1080] [AdSSO INFO] Log file is saved in folder C:\Users\user\AppData\Local\Autodesk\Web Services\Log
+2022-02-11T16:53:21.939Z [acwebbrowser:2484, 1080] [AdSSO INFO] Root log level picked up based on configuration: INFO
+2022-02-11T16:53:21.939Z [acwebbrowser:2484, 1080] [AdSSO INFO] Loggers and log levels: AdSSO=INFO, AdSSOClient=INFO, AdSSOServer=INFO, AdSSOServices=INFO, AdWebServices=INFO, AdWebServices.Cache=NOTSET, AdWebServices.Fetcher=NOTSET, AdWebServices.Lock=NOTSET, AdWebServices.Network=NOTSET, AdWebServices.OAuth2=NOTSET, AdWebServices.OAuth2.Fetcher=NOTSET, AdWebServices.OAuth2.Refresher=NOTSET, AdWebServices.Product=NOTSET, AdWebServices.Refresher=NOTSET, AdWebServices.Session=NOTSET, AdWebServices.TimeService=NOTSET, AdWebServicesUI=INFO
+2022-02-11T16:53:21.961Z [acwebbrowser:2484, 1080] [AdWebServices INFO] AdWebServices.dll module loaded (Version: 9.26.0.600, Config: x86-Release, File: C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/AdWebServices.dll) in executable C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/acwebbrowser.exe
+2022-02-11T16:53:21.962Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Operating System: Windows 8 (64-bit)
+2022-02-11T16:53:22.014Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Proxy settings:
+Connection Flags: PROXY_TYPE_DIRECT,PROXY_TYPE_AUTO_DETECT
+Auto Discovery Flags: 
+Auto Config Url: 
+Proxy Server: 
+Proxy Bypass: 
+2022-02-11T16:53:22.014Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Setting following default search paths for plugins:
+C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/plugins
+C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore
+2022-02-11T16:53:23.140Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Initializing Web Services without oauth2 support
+2022-02-11T16:53:23.492Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Creating client info object for product 
+2022-02-11T16:53:23.492Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] OAuth2 disabled in client info
+2022-02-11T16:53:23.494Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Acquiring login state file lock
+2022-02-11T16:53:23.494Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Acquired login state file lock
+2022-02-11T16:53:23.565Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Released login state file lock
+2022-02-11T16:53:23.565Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Can't load basic login state from file C:/Users/user/AppData/Local/Autodesk/Web Services/LoginState.xml. File not found.
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Loaded web services urls from file C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/AdWebservicesURLs.config
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices.TimeService INFO] Creating time service
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Can't load basic login state from file C:/Users/user/AppData/Local/Autodesk/Web Services/LoginState.xml. File not found.
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices.TimeService INFO] Starting time service asynchronously
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Web Services initialized. OAuth2: Disabled
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Web Services initialization took 1836 ms
+2022-02-11T16:53:23.664Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Web Services data path: C:/Users/user/AppData/Local/Autodesk/Web Services
+2022-02-11T16:53:23.665Z [acwebbrowser:2484, 1080] [AdWebServices INFO] Web Services login state file: C:/Users/user/AppData/Local/Autodesk/Web Services/LoginState.xml
+2022-02-11T16:53:23.714Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Clearing proxy for this process
+2022-02-11T16:53:23.715Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Acquiring login state file lock
+2022-02-11T16:53:23.715Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Acquired login state file lock
+2022-02-11T16:53:23.715Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Released login state file lock
+2022-02-11T16:53:23.751Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Setting configuration for Production server
+2022-02-11T16:53:23.964Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Configuration is set for Production server. Skipping token query check since login state is not yet restored.
+2022-02-11T16:53:23.965Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Setting configuration for Staging server
+2022-02-11T16:53:23.967Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Configuration is set for Staging server. Skipping token query check since current server is Production.
+2022-02-11T16:53:23.967Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Setting configuration for Development server
+2022-02-11T16:53:23.968Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Configuration is set for Development server. Skipping token query check since current server is Production.
+2022-02-11T16:53:23.968Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Restoring login state for all products
+2022-02-11T16:53:23.968Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Acquiring login state file lock
+2022-02-11T16:53:23.968Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Acquired login state file lock
+2022-02-11T16:53:23.969Z [acwebbrowser:2484, 1080] [AdWebServices.Lock INFO] Released login state file lock
+2022-02-11T16:53:23.971Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Loading of login state skipped. Login state file C:/Users/user/AppData/Local/Autodesk/Web Services/LoginState.xml does not exist.
+2022-02-11T16:53:23.974Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Sending web services event LoginRestored to observers in this process
+2022-02-11T16:53:23.974Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Sending web services event LoginRestored to slots in this process
+2022-02-11T16:53:23.974Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Login restored for all products
+2022-02-11T16:53:23.977Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Ignoring restore login. Login state is already restored for all products.
+2022-02-11T16:53:23.987Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Initiating login with ldap domain : https://accounts.autodesk.com/OAuth/RequestToken
+2022-02-11T16:53:24.145Z [acwebbrowser:2484, 3012] [AdWebServices INFO] Ssl library: OpenSSL 1.0.2n  7 Dec 2017, ssleay: C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/ssleay32_Ad_1.dll (), libeay: C:/Program Files/Common Files/Autodesk Shared/CLM/V7/MSVC14/cliccore/libeay32_Ad_1.dll ()
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 5116] [AdWebServices INFO] IPC: Removed server Autodesk.WebServices.acwebbrowser.2484 in this process.
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 5116] [AdWebServices.Ipc INFO] Started server Autodesk.WebServices.acwebbrowser.2484 in this process. Listening for connections.
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] StartServiceSlot called
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Starting time service
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Check timer started with interval 10s
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Starting time update. Reason: First update in this session.
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Check timer stopped
+2022-02-11T16:53:24.148Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Getting time from server https://time.akamai.com
+2022-02-11T16:53:24.463Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Time query finished. Server response: Http code: 200, Body: 1644598404, Date header: Fri, 11 Feb 2022 16:53:24 GMT
+2022-02-11T16:53:24.463Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Successfully parsed unix time in body: 1644598404
+2022-02-11T16:53:24.463Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Time queried successfully from server https://time.akamai.com: 2022-02-11T16:53:24Z
+2022-02-11T16:53:24.464Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] System time is correct. System time matches server time within 5m tolerance. No time offset will be applied to system time. System time: 11/02/2022 11:53 a. m. (UTC: 2022-02-11T16:53:24Z), Server time (UTC): 2022-02-11T16:53:24Z
+2022-02-11T16:53:24.464Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Disabling regular time update since system time is correct
+2022-02-11T16:53:24.464Z [acwebbrowser:2484, 3012] [AdWebServices.TimeService INFO] Check timer started with interval 10s
+2022-02-11T16:53:24.483Z [acwebbrowser:2484, 1080] [AdWebServices.Session INFO] Initiated login successfully

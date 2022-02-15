@@ -1,0 +1,9 @@
+11/02/2022 11:49:55 a. m.: Configuration Read from: C:\Users\user\AppData\Local\Autodesk\AutoCAD 2019\R23.0\esp\Support\infocenter.xml
+11/02/2022 11:50:09 a. m.: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+11/02/2022 11:50:09 a. m.: System.Runtime.InteropServices.COMException (0x80040154): No se pudo recuperar el generador de clases COM para el componente con CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} debido al siguiente error: 80040154 Clase no registrada (Excepción de HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   en Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+11/02/2022 11:50:09 a. m.: Error executing network check
+11/02/2022 11:50:09 a. m.: No se pudo recuperar el generador de clases COM para el componente con CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} debido al siguiente error: 80040154 Clase no registrada (Excepción de HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+11/02/2022 11:50:09 a. m.: Error executing network check
+11/02/2022 11:50:09 a. m.: No se pudo recuperar el generador de clases COM para el componente con CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} debido al siguiente error: 80040154 Clase no registrada (Excepción de HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
